@@ -1,0 +1,30 @@
+{
+    "response": [
+        {
+            "maintainer": "ha510k - private use only",
+            "oem": "Samsung",
+            "device": "Galaxy Note 20",
+            "filename": "crDroidAndroid-17.0-20261109-c1s-v13.0.zip",
+            "download": "https://sourceforge.net/projects/crdroid/files/c1s/13.x/crDroidAndroid-17.0-20261109-c1s-v13.0.zip/download",
+            "timestamp": 1794229510,
+            "md5": "0d8940fe0b3e0643189259aca5dd389f",
+            "sha256": "c175103bc4c415ff4cb1f7c99e78119387cdd7a7c118bdd0146603db384e4f80",
+            "size": 1389896692,
+            "version": "13.0",
+            "os_patch_level": "2026-10-01",
+            "os_sdk_level": 37,
+            "buildtype": "Monthly",
+            "forum": "",
+            "gapps": "https://github.com/MindTheGapps/17.0.0-arm64/releases",
+            "firmware": "https://www.sammobile.com/samsung/galaxy-note-20/firmware/#SM-N981B",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "",
+            "dt": "https://github.com/LineageOS/android_device_samsung_c1s/tree/lineage-24.0",
+            "common-dt": "https://github.com/LineageOS/android_device_samsung_universal9830-common/tree/lineage-24.0",
+            "kernel": "https://github.com/LineageOS/android_kernel_samsung_universal9830/tree/lineage-24.0"
+        }
+    ]
+}
