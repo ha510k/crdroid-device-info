@@ -1,6 +1,30 @@
-[
-  {
-    "maintainer": "ha510k - Unofficial private use",
-    "paypal": ""
-  }
-]
+{
+    "response": [
+        {
+            "maintainer": "ha510k)",
+            "oem": "Poco",
+            "device": "Poco X3 Pro",
+            "filename": "-",
+            "download": "-",
+            "timestamp": 1794031223,
+            "md5": "1985914448afc4e3c2bf5feacae0d8de",
+            "sha256": "13f0fe6ce8b2a4c93d312f1185ddbc40da04fd8545fac60f875879fc7731ddb7",
+            "size": 1926017249,
+            "version": "13.0",
+            "os_patch_level": "2026-10-01",
+            "os_sdk_level": 37,
+            "buildtype": "Monthly",
+            "forum": "-",
+            "gapps": "-",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "-/",
+            "paypal": "-",
+            "telegram": "-",
+            "dt": "https://github.com/crdroidandroid/android_device_xiaomi_vayu",
+            "common-dt": "https://github.com/crdroidandroid/android_device_xiaomi_sm8150-common",
+            "kernel": "https://github.com/crdroidandroid/android_kernel_xiaomi_sm8150"
+        }
+    ]
+}
